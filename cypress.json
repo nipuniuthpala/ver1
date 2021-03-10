@@ -1,0 +1,9 @@
+{
+  "chromeWebSecurity": false,
+  "projectId": "kss15z",
+"modifyObstructiveCode":false,
+  "defaultCommandTimeout": 90000,
+  "requestTimeout": 90000,
+"API_KEY":"442c4bcfe9ef807a5122b4f1b3184af82cbf27de43939d7a4eab819a54644fc1"
+
+}
