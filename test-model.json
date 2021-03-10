@@ -1,0 +1,3863 @@
+{
+  "name": "Felix_V5.1",
+  "intents": [
+    {
+      "intent": "email_engagement_reaction",
+      "examples": [
+        {
+          "text": "Please explain Emagazine Engagement - Total Reaction"
+        },
+        {
+          "text": "How to distinguish reaction segments"
+        },
+        {
+          "text": "Please explain Email Engagement - Reaction"
+        },
+        {
+          "text": "Where is the definition of reaction segements"
+        },
+        {
+          "text": "Is there any different between reaction segments"
+        },
+        {
+          "text": "email engagement"
+        },
+        {
+          "text": "total reaction"
+        },
+        {
+          "text": "reaction"
+        },
+        {
+          "text": "When should I use Emagazine Engagement - Reaction"
+        },
+        {
+          "text": "When should I use Emagazine Engagement - Total Reaction"
+        },
+        {
+          "text": "What is the definition of reaction segments"
+        },
+        {
+          "text": "What is Email Engagement - Reaction"
+        },
+        {
+          "text": "Please tell me about Emagazine Engagement - Reaction"
+        },
+        {
+          "text": "I don't find any difference between Emagazine Engagement - Reaction, Emagazine Engagement - Total Reaction, Email Engagement - Reaction"
+        },
+        {
+          "text": "I would like to know about Emagazine Engagement - Reaction"
+        },
+        {
+          "text": "When should I use Email Engagement - Reaction"
+        },
+        {
+          "text": "Please tell me about Emagazine Engagement - Total Reaction"
+        },
+        {
+          "text": "What is Emagazine Engagement - Reaction"
+        },
+        {
+          "text": "I would like to know about Emagazine Engagement - Total Reaction"
+        },
+        {
+          "text": "Please tell me about Email Engagement - Reaction"
+        },
+        {
+          "text": "Please explain Emagazine Engagement - Reaction"
+        },
+        {
+          "text": "I would like to know about Email Engagement - Reaction"
+        },
+        {
+          "text": "Tell me the difference between reaction segments"
+        },
+        {
+          "text": "What is Emagazine Engagement - Total Reaction"
+        },
+        {
+          "text": "I don't understand the difference between reaction segments"
+        }
+      ]
+    },
+    {
+      "intent": "upload_list",
+      "examples": [
+        {
+          "text": "I would like to try Manual Upload"
+        },
+        {
+          "text": "I don't know how to upload a email list"
+        },
+        {
+          "text": "We don't know about Manual Upload"
+        },
+        {
+          "text": "What does Felix do if there is error in list"
+        },
+        {
+          "text": "What is Manual Upload"
+        },
+        {
+          "text": "I want to upload email list"
+        },
+        {
+          "text": "What does Felix do if I upload list which has wrong data"
+        },
+        {
+          "text": "I want to know how to use Manual Upload"
+        },
+        {
+          "text": "Tell me the way to use Manual Upload"
+        },
+        {
+          "text": "If there is error in list what Felix do"
+        },
+        {
+          "text": "We would like to know how to use Manual Upload"
+        },
+        {
+          "text": "We would like to try Manual Upload"
+        },
+        {
+          "text": "What is the rule of uploading delivery list"
+        },
+        {
+          "text": "What is reason for error when list upload"
+        },
+        {
+          "text": "Does Felix  have recipient list check function"
+        },
+        {
+          "text": "Does Felix check if I upload wrong recipient list"
+        },
+        {
+          "text": "I want to know error reason when list upload"
+        },
+        {
+          "text": "How to use Manual Upload"
+        },
+        {
+          "text": "I want to upload delivery list"
+        },
+        {
+          "text": "I cannot upload the delivery list in Manual Upload"
+        },
+        {
+          "text": "Why I cannot successfully upload the delivery list"
+        },
+        {
+          "text": "Does Felix  support recipient list check function"
+        },
+        {
+          "text": "Can Felix support f I upload wrong recipient list"
+        },
+        {
+          "text": "Is it possible to support if I upload wrong recipient list"
+        },
+        {
+          "text": "I want to try Manual Upload"
+        },
+        {
+          "text": "We want to try Manual Upload"
+        },
+        {
+          "text": "I would like to know how to use Manual Upload"
+        },
+        {
+          "text": "I don't know about Manual Upload"
+        },
+        {
+          "text": "Can Felix check recipient list when list upload"
+        },
+        {
+          "text": "What is Manual Upload function"
+        },
+        {
+          "text": "Does list upload on Felix"
+        },
+        {
+          "text": "I want to upload sending list"
+        },
+        {
+          "text": "Does Felix check resipient list when list upload"
+        },
+        {
+          "text": "Does Felix  support f I upload wrong recipient list"
+        },
+        {
+          "text": "If I upload list which has wrong data what Felix do"
+        },
+        {
+          "text": "What is the format of Manual Upload"
+        },
+        {
+          "text": "Please tell me Manual Upload"
+        },
+        {
+          "text": "error"
+        },
+        {
+          "text": "upload list"
+        },
+        {
+          "text": "I want upload easyid list"
+        },
+        {
+          "text": "Is there limit of Manual Upload"
+        },
+        {
+          "text": "Manual Upload is not working"
+        },
+        {
+          "text": "I cannot upload the list in Manual Upload"
+        },
+        {
+          "text": "I cannot upload the sending list in Manual Upload"
+        },
+        {
+          "text": "Is it possible to check if I upload wrong recipient list"
+        }
+      ]
+    },
+    {
+      "intent": "create_issue",
+      "examples": [
+        {
+          "text": "Our member can't create emagazine because create button doesn't find"
+        },
+        {
+          "text": "Why does create button appear"
+        },
+        {
+          "text": "I want to know why create button doesn't appear"
+        },
+        {
+          "text": "I can't find create button"
+        },
+        {
+          "text": "Some of user can't create emagazine because create button doesn't find"
+        },
+        {
+          "text": "We can't find create button"
+        },
+        {
+          "text": "I can't create email because create button doesn't find"
+        },
+        {
+          "text": "create issue"
+        },
+        {
+          "text": "I don't know the reason why create button doesn't appear"
+        },
+        {
+          "text": "I can't create emagazine because create button doesn't find"
+        },
+        {
+          "text": "What is create button"
+        },
+        {
+          "text": "We don't know the reason why create button doesn't appear"
+        },
+        {
+          "text": "I can't click create button because it doesn't appear"
+        },
+        {
+          "text": "I would like to know why create button doesn't appear"
+        },
+        {
+          "text": "Please explain how to appear create button"
+        },
+        {
+          "text": "Create button doesn't appear on Felix"
+        }
+      ]
+    },
+    {
+      "intent": "check_list",
+      "examples": [
+        {
+          "text": "Can I check list count before sending"
+        },
+        {
+          "text": "We want to check list number before sending"
+        },
+        {
+          "text": "How can I count the sending list"
+        },
+        {
+          "text": "Does a list count before sending"
+        },
+        {
+          "text": "Is there any way to measure the number of emails"
+        },
+        {
+          "text": "Where to find the sending number"
+        },
+        {
+          "text": "I want to know list count before sending"
+        },
+        {
+          "text": "Is it possible to check list number befor issue sending"
+        },
+        {
+          "text": "number of list"
+        },
+        {
+          "text": "How to count the number in the list"
+        },
+        {
+          "text": "Does a list count check before sending"
+        },
+        {
+          "text": "How to measure the number of delivery"
+        },
+        {
+          "text": "Where is the number of the delivery list"
+        },
+        {
+          "text": "Can I check list number before sending"
+        },
+        {
+          "text": "Can Felix check list count before sending"
+        },
+        {
+          "text": "Can I confirm the delivery number before sending"
+        },
+        {
+          "text": "How can I find the number of delivery"
+        },
+        {
+          "text": "Before sending Can I check list number"
+        },
+        {
+          "text": "How can I know the number of the sending list"
+        },
+        {
+          "text": "Can Felix check list number before sending"
+        },
+        {
+          "text": "Is there any way to calculate the number of delivery"
+        },
+        {
+          "text": "Can we check list count before sending"
+        },
+        {
+          "text": "How many delivery would be conducted"
+        },
+        {
+          "text": "Can we check list number before sending"
+        },
+        {
+          "text": "I want to check list number before sending"
+        },
+        {
+          "text": "I want to make sure the number of delivery"
+        },
+        {
+          "text": "Does Felix check list number before sending"
+        },
+        {
+          "text": "Is it possible to check list number befor sending"
+        },
+        {
+          "text": "How to confirm the number in the list"
+        },
+        {
+          "text": "How can I know how many emails would be sent"
+        },
+        {
+          "text": "Is there a function to count delivery number"
+        }
+      ]
+    },
+    {
+      "intent": "copy_issue",
+      "examples": [
+        {
+          "text": "Can Felix support copy fuction to make email"
+        },
+        {
+          "text": "Does Felix support copy fuction to create email"
+        },
+        {
+          "text": "Can Felix support copy fuction to make issue"
+        },
+        {
+          "text": "Is it possible to copy the old campaign"
+        },
+        {
+          "text": "Can Felix support copy fuction to create email"
+        },
+        {
+          "text": "What is the fastest way to copy configuration from old campaign"
+        },
+        {
+          "text": "Can Felix create emagazine copied by previus one"
+        },
+        {
+          "text": "I want to make use of the old campaign"
+        },
+        {
+          "text": "Can Felix support copy fuction to create issue"
+        },
+        {
+          "text": "We want to create emagazine copied by previus one"
+        },
+        {
+          "text": "Does Felix create emagazine copied by previus one"
+        },
+        {
+          "text": "Can I reuse the old campaign"
+        },
+        {
+          "text": "I want to create a new campaign with exact same content as before"
+        },
+        {
+          "text": "Is it possible to creat issue copied by previus one"
+        },
+        {
+          "text": "I want to create some similar campaign that I created before"
+        },
+        {
+          "text": "I want to make a similar campaign as the past"
+        },
+        {
+          "text": "We would like to create emagazine copied by previus one"
+        },
+        {
+          "text": "How can I copy and paste the capaign created"
+        },
+        {
+          "text": "I want to copy content from old campaign"
+        },
+        {
+          "text": "How can I copy the old campaign"
+        },
+        {
+          "text": "copy function"
+        },
+        {
+          "text": "I would like to create emagazine copied by previus one"
+        },
+        {
+          "text": "I want to resend an old campaign"
+        },
+        {
+          "text": "Does Felix support copy fuction to create issue"
+        },
+        {
+          "text": "Please tell me how to copy the campaign created in the past"
+        },
+        {
+          "text": "How to copy campaign"
+        },
+        {
+          "text": "Does Felix have issue copy function"
+        },
+        {
+          "text": "I don't know how to copy the old campaign"
+        },
+        {
+          "text": "I want to create emagazine copied by previus one"
+        },
+        {
+          "text": "Is there function that copy the campaign"
+        },
+        {
+          "text": "Can I create emagazine copied by previus one"
+        }
+      ]
+    },
+    {
+      "intent": "send_test_transmission",
+      "examples": [
+        {
+          "text": "I want to pass the test sending"
+        },
+        {
+          "text": "I can’t create email because test send occures error"
+        },
+        {
+          "text": "How can I solve the error of test sending"
+        },
+        {
+          "text": "There were serveal errors for test sending"
+        },
+        {
+          "text": "I don't know what error I am facing"
+        },
+        {
+          "text": "Test send occures error, so that I can’t create email"
+        },
+        {
+          "text": "What is the meaning of error in test sending"
+        },
+        {
+          "text": "test send"
+        },
+        {
+          "text": "We want to know why test send error happen"
+        },
+        {
+          "text": "We can’t work because of test send error"
+        },
+        {
+          "text": "I cannot pass the test sending"
+        },
+        {
+          "text": "I cannot set the schedule"
+        },
+        {
+          "text": "I can’t work because of test send error"
+        },
+        {
+          "text": "Error happens in test sending"
+        },
+        {
+          "text": "Why does test send error happen"
+        },
+        {
+          "text": "Please solve the error in test sending"
+        },
+        {
+          "text": "I trapped in test sending"
+        },
+        {
+          "text": "We don't know the reason why test send error happen"
+        },
+        {
+          "text": "We can’t create email because test send occures error"
+        },
+        {
+          "text": "What is the reason for test send error"
+        },
+        {
+          "text": "I want to know why test send error happen"
+        },
+        {
+          "text": "Operation does not work because test send is errow"
+        },
+        {
+          "text": "What should I do if there is error in test sending"
+        },
+        {
+          "text": "Why there is error in test sending"
+        },
+        {
+          "text": "I don't know the reason why test send error happen"
+        },
+        {
+          "text": "I can’t create issue because of test send error"
+        },
+        {
+          "text": "Test send error happened"
+        },
+        {
+          "text": "Tell me how to solve the test sending error"
+        },
+        {
+          "text": "I cannot finish test sending"
+        },
+        {
+          "text": "I try a test send but error happen"
+        },
+        {
+          "text": "Can I skip the test send"
+        }
+      ]
+    },
+    {
+      "intent": "check_list_decrease",
+      "examples": [
+        {
+          "text": "I want to know what list errow does Felix check"
+        },
+        {
+          "text": "decreased list"
+        },
+        {
+          "text": "We would like to know why does sent email count differ from valid count"
+        },
+        {
+          "text": "I would like to know does Felix have what kind of errow list check"
+        },
+        {
+          "text": "Felix cannot deliver mail to all the recipents"
+        },
+        {
+          "text": "The number in delivery list is different from the list I made"
+        },
+        {
+          "text": "What is the reason for differ from sent count and valid one"
+        },
+        {
+          "text": "Do I need to request for permission from users before sending email"
+        },
+        {
+          "text": "I want to know does Felix have what kind of errow list check"
+        },
+        {
+          "text": "Does Felix have errow list check function on Felix"
+        },
+        {
+          "text": "Do I need to request for permission from recipents before sending email"
+        },
+        {
+          "text": "I would like to know why does sent email count differ from valid count"
+        },
+        {
+          "text": "Please tell me the reason why the delivery number in delivery list is less than that I requested"
+        },
+        {
+          "text": "We want to know what is the reason for differ from sent count and valid one"
+        },
+        {
+          "text": "I want to know why does sent email count differ from valid count"
+        },
+        {
+          "text": "Can I know some of errow in list"
+        },
+        {
+          "text": "What errow does Felix check"
+        },
+        {
+          "text": "Please tell me the reason for differ from sent count and valid one"
+        },
+        {
+          "text": "We woul like to know the reason for differ from sent count and valid one"
+        },
+        {
+          "text": "Can we know some of errow in list"
+        },
+        {
+          "text": "How could I know if the recipent reject the mail"
+        },
+        {
+          "text": "How could I solve the difference in delivery list"
+        },
+        {
+          "text": "Is there any calculate mistake in sending list"
+        },
+        {
+          "text": "Why the sending number in delivery list is less than that I requested"
+        },
+        {
+          "text": "What is the reason behind some of the mail could not be delivered"
+        },
+        {
+          "text": "We want to know what list errow does Felix check"
+        },
+        {
+          "text": "We want to know why does sent email count differ from valid count"
+        },
+        {
+          "text": "I found something strange in the delivery list"
+        },
+        {
+          "text": "What kind of the check does Felix list file"
+        },
+        {
+          "text": "The number in delivery list does not matched to the list I made"
+        },
+        {
+          "text": "Why does sent email count differ from valid count"
+        },
+        {
+          "text": "Does Felix check a list"
+        },
+        {
+          "text": "When I uploard list file there is errow address"
+        },
+        {
+          "text": "We want to know does Felix have what kind of errow list check"
+        },
+        {
+          "text": "I want to know what is the reason for differ from sent count and valid one"
+        },
+        {
+          "text": "The mail set for sending has decreased significantly when creating distribution lists"
+        },
+        {
+          "text": "We want to know why sent email count differ from valid count"
+        },
+        {
+          "text": "I would like to know what is the reason for differ from sent count and valid one"
+        },
+        {
+          "text": "I found that some of the mail could not be delivered"
+        },
+        {
+          "text": "Is there errow list check function on Felix"
+        },
+        {
+          "text": "Please tell me the reason why the delivery number is less than that I requested"
+        },
+        {
+          "text": "Please explain about list errow check on Felix"
+        },
+        {
+          "text": "I want to know why sent email count differ from valid count"
+        },
+        {
+          "text": "We would like to know what is the reason for differ from sent count and valid one"
+        },
+        {
+          "text": "Please tell me the reason why the sending number in delivery list is less than that I requested"
+        },
+        {
+          "text": "We would like to know does Felix have what kind of errow list check"
+        },
+        {
+          "text": "Valid number"
+        },
+        {
+          "text": "I woul like to know the reason for differ from sent count and valid one"
+        }
+      ]
+    },
+    {
+      "intent": "divide_authority_user",
+      "examples": [
+        {
+          "text": "We want to register user who can use specific From address because we have some From address"
+        },
+        {
+          "text": "I want to restrict the use of from address"
+        },
+        {
+          "text": "I want different users have different to use different from addresses"
+        },
+        {
+          "text": "from address"
+        },
+        {
+          "text": "Can some From address permit to use for specic Felix user"
+        },
+        {
+          "text": "Is the authority of all the from addresses the same"
+        },
+        {
+          "text": "I don't want some users to use certain from address"
+        },
+        {
+          "text": "Could I separate authority by from address"
+        },
+        {
+          "text": "I would like to register user who can use specific From address because we have some From address"
+        },
+        {
+          "text": "I want to restrict the authorities from using different from addresses"
+        },
+        {
+          "text": "We want user to create issue which is set specific From address"
+        },
+        {
+          "text": "How to configure different users to use different from addresses"
+        },
+        {
+          "text": "I want to separate user's authority by from address"
+        },
+        {
+          "text": "Is it possible to differentiate authority of from address from different user"
+        },
+        {
+          "text": "Is it possible to separate authority to use some From address because we have some From address."
+        },
+        {
+          "text": "I want to register user who can use specific From address because we have some From address"
+        },
+        {
+          "text": "We want to set user for using specific From address"
+        },
+        {
+          "text": "Can I restrict the authorities from using different from addresses"
+        },
+        {
+          "text": "I don't want all from addresses are available to all users"
+        },
+        {
+          "text": "We want to set user authority for each From address"
+        },
+        {
+          "text": "I want to set user authority for each From address"
+        },
+        {
+          "text": "Is it possible to separate authority to use some From address"
+        },
+        {
+          "text": "Can Felix user separate authority to use some From address"
+        },
+        {
+          "text": "Can I separate authority by from address"
+        },
+        {
+          "text": "I want to configure different users to use different from addresses"
+        },
+        {
+          "text": "I want to have different authorities for different from addresses"
+        },
+        {
+          "text": "Can Felix user set authority for each From address"
+        },
+        {
+          "text": "I want user to create issue which is set specific From address"
+        },
+        {
+          "text": "I want to set user for using specific From address"
+        },
+        {
+          "text": "I don’t know how to configure authority from different from address"
+        },
+        {
+          "text": "We would like to register user who can use specific From address because we have some From address"
+        }
+      ]
+    },
+    {
+      "intent": "register_user",
+      "examples": [
+        {
+          "text": "Why don't I have authority to use Felix"
+        },
+        {
+          "text": "I want to know how to find member name on user management page"
+        },
+        {
+          "text": "We would like to know why don't find  member on user management page"
+        },
+        {
+          "text": "I want to know why don't find  member on user management page"
+        },
+        {
+          "text": "We don't know why don't find  member on user management page"
+        },
+        {
+          "text": "I would like to know why don't find  member on user management page"
+        },
+        {
+          "text": "we can't register user because of no list on Felix"
+        },
+        {
+          "text": "I can't register user because I can't search member name on Felix"
+        },
+        {
+          "text": "we can't register user because I can't search member name on Felix"
+        },
+        {
+          "text": "I can't register user because of no list on Felix"
+        },
+        {
+          "text": "I don't know why why don't find  member on user management page"
+        },
+        {
+          "text": "I would like to add more Felix user"
+        },
+        {
+          "text": "How can I manage the user list"
+        },
+        {
+          "text": "What is the procedure of registering new user"
+        },
+        {
+          "text": "How to add user."
+        },
+        {
+          "text": "I want to add users to Felix"
+        },
+        {
+          "text": "Please add me as a new user"
+        },
+        {
+          "text": "Is it possible to regiser some Felix users"
+        },
+        {
+          "text": "I want to have the authority to use Felix"
+        },
+        {
+          "text": "Who should I find to grant permission for new users"
+        },
+        {
+          "text": "How could I let other to use Felix"
+        },
+        {
+          "text": "I want to grant the right of usage of Felix to a user"
+        },
+        {
+          "text": "We want to register our team member as Felix user"
+        },
+        {
+          "text": "We want to know how to register Felix user"
+        },
+        {
+          "text": "We don't know how to add Felix user"
+        },
+        {
+          "text": "I want to assign my members to use Felix"
+        },
+        {
+          "text": "Do I need to create a JIRA ticket to add new user"
+        },
+        {
+          "text": "I don't know how to add Felix user"
+        },
+        {
+          "text": "We would like to add one of my team members to Felix account"
+        },
+        {
+          "text": "Please explain about register user"
+        },
+        {
+          "text": "register user"
+        },
+        {
+          "text": "We would like to add more Felix user"
+        },
+        {
+          "text": "Why I can't search member name on User management page"
+        },
+        {
+          "text": "I can't add user because member name does't find on the list"
+        },
+        {
+          "text": "I want to add more Felix user"
+        },
+        {
+          "text": "I can't search member name to add Felix user"
+        },
+        {
+          "text": "I don't find member name on Felix in order to add user"
+        },
+        {
+          "text": "We want to know how to find member name on user management page"
+        },
+        {
+          "text": "Member name does't appear the list on Felix, so that I can't register user"
+        },
+        {
+          "text": "We want to know why don't find  member on user management page"
+        },
+        {
+          "text": "I would like to know how to find member name on user management page"
+        },
+        {
+          "text": "We would like to know how to find member name on user management page"
+        },
+        {
+          "text": "We want to add more Felix user"
+        },
+        {
+          "text": "How to apply right of usage of Felix"
+        },
+        {
+          "text": "Felix usage"
+        },
+        {
+          "text": "Where should I apply for registering new user"
+        },
+        {
+          "text": "Let me know how to register user"
+        },
+        {
+          "text": "I would like to add one of my team members to Felix account"
+        },
+        {
+          "text": "I want to grant permission of a user to use Felix"
+        },
+        {
+          "text": "How to become a user of Felix"
+        },
+        {
+          "text": "I want to register our team member as Felix user"
+        },
+        {
+          "text": "We want to register more Felix user"
+        },
+        {
+          "text": "I want to know how to register Felix user"
+        },
+        {
+          "text": "I want to register more Felix user"
+        },
+        {
+          "text": "How to add Felix user"
+        }
+      ]
+    },
+    {
+      "intent": "check_kpi",
+      "examples": [
+        {
+          "text": "I want to know the open-rate"
+        },
+        {
+          "text": "How many days does the KPI of emagazine count"
+        },
+        {
+          "text": "open rate"
+        },
+        {
+          "text": "Does KIP have a measurement period"
+        },
+        {
+          "text": "When can I obtain the open-rate"
+        },
+        {
+          "text": "I cannot see the open-rate"
+        },
+        {
+          "text": "Is open-rate revealed in real-time"
+        },
+        {
+          "text": "How much time should I wait for open-rate"
+        },
+        {
+          "text": "Is there any analysis on the campaign"
+        },
+        {
+          "text": "I want to know how many days does the click-rate of emagazine count"
+        },
+        {
+          "text": "Is there any figure about the email campaign"
+        },
+        {
+          "text": "How can I know if user open the emails"
+        },
+        {
+          "text": "How can I confirm the number of opened emails"
+        },
+        {
+          "text": "How many days does the open-rate of issue count"
+        },
+        {
+          "text": "When will the result of open-rate would be revealed"
+        },
+        {
+          "text": "Why there is nothing shown in open-rate"
+        },
+        {
+          "text": "I want to know how long is the KPI measured"
+        },
+        {
+          "text": "I want to know how many days does the KPI of emagazine count"
+        },
+        {
+          "text": "Why the open-rate is not revealed"
+        },
+        {
+          "text": "Open-rate is missing"
+        },
+        {
+          "text": "How many days does the click-rate of emagazine count"
+        },
+        {
+          "text": "How many days is required to anaylze the open-rate"
+        },
+        {
+          "text": "How many days does the open-rate of mail count"
+        },
+        {
+          "text": "How many days does a measurement period of email"
+        },
+        {
+          "text": "How long is the KPI measured"
+        },
+        {
+          "text": "How long is the open rate measured"
+        },
+        {
+          "text": "I want to know how many days does the open-rate of emagazine count"
+        },
+        {
+          "text": "How many days does the open-rate of emagazine count"
+        },
+        {
+          "text": "Would open-rate be calculated"
+        },
+        {
+          "text": "I want to know how many days does the open-rate of mail count"
+        }
+      ]
+    },
+    {
+      "intent": "import_list",
+      "examples": [
+        {
+          "text": "I would like to import pemission"
+        },
+        {
+          "text": "Does Felix support to import user permission"
+        },
+        {
+          "text": "How to change the permission list"
+        },
+        {
+          "text": "Can Felix import permission"
+        },
+        {
+          "text": "If we get permission can I import it to Felix"
+        },
+        {
+          "text": "I would like to know how to import user permission"
+        },
+        {
+          "text": "Does Felix has import function"
+        },
+        {
+          "text": "Can I import user permisson to Felix"
+        },
+        {
+          "text": "I want to upload new permission list"
+        },
+        {
+          "text": "How to import permission list"
+        },
+        {
+          "text": "I want to add new readers to news magazine"
+        },
+        {
+          "text": "How to add readers to news magazine"
+        },
+        {
+          "text": "How to import user permission"
+        },
+        {
+          "text": "How to add new permission list"
+        },
+        {
+          "text": "Can you help me to import the permission list"
+        },
+        {
+          "text": "Why cannot I send news magazine to users"
+        },
+        {
+          "text": "How can I change user's permission"
+        },
+        {
+          "text": "Felix can import user permission don't you"
+        },
+        {
+          "text": "How to upload permission list"
+        },
+        {
+          "text": "I would like to import pemissions which are used by our system"
+        },
+        {
+          "text": "import permission"
+        },
+        {
+          "text": "I want to know how to import permission"
+        },
+        {
+          "text": "We would like to import pemission"
+        },
+        {
+          "text": "I want to change user's permission"
+        },
+        {
+          "text": "I don't know how to import permission list"
+        },
+        {
+          "text": "Where to import the permission list"
+        },
+        {
+          "text": "Is it possilble to import permission to Felix"
+        },
+        {
+          "text": "How to increase readers to news magazine"
+        },
+        {
+          "text": "We would like to know how to import user permission"
+        },
+        {
+          "text": "We want to know how to import permission"
+        }
+      ]
+    },
+    {
+      "intent": "export_permission",
+      "examples": [
+        {
+          "text": "I would like to know how to export recipient from specific emails sent out"
+        },
+        {
+          "text": "How to export recipient list"
+        },
+        {
+          "text": "Does Felix support to export a recipient file"
+        },
+        {
+          "text": "Can I export recipient from specific emails sent out"
+        },
+        {
+          "text": "Can Felix export recipient from specific emails sent out"
+        },
+        {
+          "text": "How to export mail list"
+        },
+        {
+          "text": "Can Felix support to export a recipient file"
+        },
+        {
+          "text": "Is it possible to export recipient list"
+        },
+        {
+          "text": "Please tell me how to export recipient from specific emails sent out"
+        },
+        {
+          "text": "Can we export recipient from specific emails sent out"
+        },
+        {
+          "text": "export"
+        },
+        {
+          "text": "I don't know how export recipient from specific emails sent out"
+        },
+        {
+          "text": "Is it possible to export email list"
+        },
+        {
+          "text": "Please explain about export of recipient"
+        },
+        {
+          "text": "We would like to know how to export recipient from specific emails sent out"
+        },
+        {
+          "text": "Does Felix support to export a email file"
+        }
+      ]
+    },
+    {
+      "intent": "send_ML_address",
+      "examples": [
+        {
+          "text": "I would like to test destination to ML"
+        },
+        {
+          "text": "Can I set ML for test destination"
+        },
+        {
+          "text": "Can ML permit to receive test destination"
+        },
+        {
+          "text": "How to send the test email to other users"
+        },
+        {
+          "text": "Is it possible to test send to other addresses"
+        },
+        {
+          "text": "Can ML receive test destination"
+        },
+        {
+          "text": "Can Felix support to receive test destination to ML"
+        },
+        {
+          "text": "ML"
+        },
+        {
+          "text": "How to configure the sending list of test send"
+        },
+        {
+          "text": "I want to send the test email to other users"
+        },
+        {
+          "text": "I wanna carbon copy a test email to my supervisior"
+        },
+        {
+          "text": "I don't know how to send a test mail to other address"
+        },
+        {
+          "text": "We want to use ML for test destination"
+        },
+        {
+          "text": "Is it restricted that the receipent of the test send is the current user"
+        },
+        {
+          "text": "I want my leader also receive test email"
+        },
+        {
+          "text": "I want my colleaguse also receive emails from the test send"
+        },
+        {
+          "text": "Is it possible to send ML for a test destination"
+        },
+        {
+          "text": "I want test destination to ML"
+        },
+        {
+          "text": "I want to use ML for test destination"
+        },
+        {
+          "text": "I want to cc a test send email to my members"
+        },
+        {
+          "text": "We want test destination to ML"
+        },
+        {
+          "text": "Can I choose who to be delivered in test send"
+        },
+        {
+          "text": "I would like to use ML for test destination"
+        },
+        {
+          "text": "I would like to test send the email to other addresses"
+        },
+        {
+          "text": "We would like to test destination to ML"
+        },
+        {
+          "text": "Does Felix support to receive test destination to ML"
+        },
+        {
+          "text": "Can I change the receipent of test send"
+        },
+        {
+          "text": "Is it possible to use ML for test destination"
+        },
+        {
+          "text": "Can I send the test mail to addresses other than mine"
+        },
+        {
+          "text": "We would like to use ML for test destination"
+        },
+        {
+          "text": "I want to send a copy of test email to my teammates"
+        },
+        {
+          "text": "Test contact group"
+        },
+        {
+          "text": "To set ML for test send"
+        }
+      ]
+    },
+    {
+      "intent": "change_language",
+      "examples": [
+        {
+          "text": "Does Felix support English"
+        },
+        {
+          "text": "Can I send a email in languages other than Japanese"
+        },
+        {
+          "text": "Is it possible to creat issue by several language"
+        },
+        {
+          "text": "Does Felix support emagazine making by some kind of language"
+        },
+        {
+          "text": "Can we create email by English"
+        },
+        {
+          "text": "Can I send a email in English"
+        },
+        {
+          "text": "Is Felix restricted to Japanese"
+        },
+        {
+          "text": "How many languages do Felix support"
+        },
+        {
+          "text": "Is it possible to creat emagazine by several language"
+        },
+        {
+          "text": "I want to send a email to other countries"
+        },
+        {
+          "text": "Can I send a email in Chinese"
+        },
+        {
+          "text": "Does Felix use several language"
+        },
+        {
+          "text": "I wanna send a email in English"
+        },
+        {
+          "text": "Does Felix support several language"
+        },
+        {
+          "text": "Do Felix support other langusges"
+        },
+        {
+          "text": "languages"
+        },
+        {
+          "text": "I want to send a newsletter in Chinese"
+        },
+        {
+          "text": "Is Unicode supported by Felix"
+        },
+        {
+          "text": "Can I create emagazine on Felix using by some language"
+        },
+        {
+          "text": "What language is supported by Felix"
+        },
+        {
+          "text": "Is it possible to creat emails by several language"
+        },
+        {
+          "text": "Is it possible to creat mail by several language"
+        },
+        {
+          "text": "Can I create Newsletters except Japanese"
+        },
+        {
+          "text": "Can I use Felix using by English"
+        },
+        {
+          "text": "Do Felix support Chinese"
+        },
+        {
+          "text": "Can we create emagazine by English"
+        },
+        {
+          "text": "I want to send a email to Taiwan customers"
+        },
+        {
+          "text": "Is Felix globally supported"
+        },
+        {
+          "text": "Is it possible to creat Newsletters by several language"
+        },
+        {
+          "text": "Is UTF-8 supported by Felix"
+        },
+        {
+          "text": "Can we create issue by English"
+        }
+      ]
+    },
+    {
+      "intent": "get_canceled_list",
+      "examples": [
+        {
+          "text": "Is it possible to get recipients list which was operated by canceled"
+        },
+        {
+          "text": "resipients"
+        },
+        {
+          "text": "After cancel operation I want to get recipients list"
+        },
+        {
+          "text": "I want to know how to get recipients list which was operated by canceled"
+        },
+        {
+          "text": "Please tell me how to get recipients list which was operated by canceled"
+        },
+        {
+          "text": "What should I do if I want to get recipients list which was operated by canceled"
+        },
+        {
+          "text": "After cancel operation I would like to get recipients list"
+        },
+        {
+          "text": "How to get recipients list if I cancel mail delivery"
+        },
+        {
+          "text": "I would like to know how to get recipients list which was operated by canceled"
+        },
+        {
+          "text": "If I cancel mail delivery can I get get recipients list"
+        },
+        {
+          "text": "If we cancel mail delivery can I get get recipients list"
+        },
+        {
+          "text": "We would like to know how to get recipients list which was operated by canceled"
+        },
+        {
+          "text": "Please explain me how to get recipients list which was operated by canceled"
+        },
+        {
+          "text": "We want to know how to get recipients list which was operated by canceled"
+        },
+        {
+          "text": "Can I get recipients list if I cancel request"
+        },
+        {
+          "text": "How to get recipients list which was operated by canceled"
+        }
+      ]
+    },
+    {
+      "intent": "register_authority_user",
+      "examples": [
+        {
+          "text": "separete user"
+        },
+        {
+          "text": "Is it possible to operate from creating to approval by one user"
+        },
+        {
+          "text": "Can Felix user set each role"
+        },
+        {
+          "text": "Can member separate authority aproval and editor"
+        },
+        {
+          "text": "What is the usage of User Management"
+        },
+        {
+          "text": "Is it possible to separate users for approver and creation"
+        },
+        {
+          "text": "How can I manage user's authorities"
+        },
+        {
+          "text": "Can I restrict the autorities of some users"
+        },
+        {
+          "text": "How to restrict users' authority"
+        },
+        {
+          "text": "Can one user complete from createing to approval"
+        },
+        {
+          "text": "Can one user operate from creating to approval"
+        },
+        {
+          "text": "What is Editor"
+        },
+        {
+          "text": "We want to separate autority aproval and editor"
+        },
+        {
+          "text": "Is everyone share the same authority"
+        },
+        {
+          "text": "I want to separate autority aproval and editor"
+        },
+        {
+          "text": "I want grant permission for some users to create and edit content whereas some users to deliver"
+        },
+        {
+          "text": "Do some of member create one issue"
+        },
+        {
+          "text": "I want the user to request my permission before sending mail"
+        },
+        {
+          "text": "How authority is defined in Felix"
+        },
+        {
+          "text": "Can user separate authority aproval and editor"
+        },
+        {
+          "text": "I would like to separate autority aproval and editor"
+        },
+        {
+          "text": "I want to restrict the autorities of different users"
+        },
+        {
+          "text": "Is it possible to set some users for approver and creation"
+        },
+        {
+          "text": "What is Approver"
+        },
+        {
+          "text": "I want to manage the authorities of users"
+        },
+        {
+          "text": "Does Felix have several authoriy like editor and approver"
+        },
+        {
+          "text": "I don't want some users delivery email by themselves"
+        },
+        {
+          "text": "I want some users who have independent authority for email creation and approval"
+        },
+        {
+          "text": "We would like to separate autority aproval and editor"
+        },
+        {
+          "text": "Can I configure the authority by user"
+        }
+      ]
+    },
+    {
+      "intent": "check_rule",
+      "examples": [
+        {
+          "text": "Who can grant me the mail permission"
+        },
+        {
+          "text": "Which department I should ask for the mail permission"
+        },
+        {
+          "text": "What is the rule to get the mail permission"
+        },
+        {
+          "text": "I would like to know Rakuten mail regulation"
+        },
+        {
+          "text": "How can I get the mail permission"
+        },
+        {
+          "text": "If we use Felix should we check Rakuten mail regulation"
+        },
+        {
+          "text": "mail rule"
+        },
+        {
+          "text": "I want to get the mail permission"
+        },
+        {
+          "text": "I don't know the rule of mail permissions"
+        },
+        {
+          "text": "What is the procedure to get the mail permission"
+        },
+        {
+          "text": "What should I prepare for getting the mail permission"
+        },
+        {
+          "text": "Do I need to request for permission for sending email"
+        },
+        {
+          "text": "Please explain the details for Rakuten mail regulation"
+        },
+        {
+          "text": "is there a rule about email in Rakuten"
+        },
+        {
+          "text": "Let me know the mail rule in Rakuten"
+        },
+        {
+          "text": "Where should I get the permission to create newsletter"
+        },
+        {
+          "text": "Please explain Rakuten mail regulation"
+        },
+        {
+          "text": "I want to know Rakuten mail regulation"
+        },
+        {
+          "text": "I want to know mail regulation"
+        },
+        {
+          "text": "What should I do about Rakuten email regulation"
+        },
+        {
+          "text": "I wanna get the mail permission"
+        },
+        {
+          "text": "Where should I get the permission to send email"
+        },
+        {
+          "text": "Who I should ask for the mail permission"
+        },
+        {
+          "text": "What is mail KPI"
+        },
+        {
+          "text": "I want to know  the rule of mail permissions"
+        },
+        {
+          "text": "I would like to know the mail rule in Rakuten"
+        },
+        {
+          "text": "What is the step to get the mail permission"
+        },
+        {
+          "text": "Is there no rule about sending email in Rakuten"
+        },
+        {
+          "text": "Do you know what is mail regulation"
+        },
+        {
+          "text": "Please let me know Rakuten mail regulation"
+        },
+        {
+          "text": "What should I do in order to get the permission to send email"
+        },
+        {
+          "text": "Does Felix compliance to Rakuten mail regulation"
+        },
+        {
+          "text": "What is mail regulation"
+        },
+        {
+          "text": "Is there any method to get the mail permission"
+        },
+        {
+          "text": "What is Rakuten mail regulation"
+        },
+        {
+          "text": "I've heard about Rakuten mail regulation. Please tell me more details"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "acount",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "user",
+          "synonyms": [
+            "felix user"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "version",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Hatty",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "buttons",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Open rate",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Canceledissuelist",
+          "synonyms": [
+            "Canceled issue list",
+            "Canceledissuelist"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Import",
+          "synonyms": [
+            "Import"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Icannotcreateisuue",
+          "synonyms": [
+            "I can not create isuue.",
+            "Icannotcreateisuue"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Openrate",
+          "synonyms": [
+            "Open rate",
+            "Openrate"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Other",
+          "synonyms": [
+            "Other"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Open rat",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mail rules",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Icantregisteruser",
+          "synonyms": [
+            "I can't register user",
+            "Icantregisteruser"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "No",
+          "synonyms": [
+            "No"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Countoflist",
+          "synonyms": [
+            "Count of list",
+            "Countoflist"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "KPI",
+          "synonyms": [
+            "KPI"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Felixuser",
+          "synonyms": [
+            "Felix user",
+            "Felixuser"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "erroroccursmanytime",
+          "synonyms": [
+            "error occurs many time",
+            "erroroccursmanytime"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Errorlistreason",
+          "synonyms": [
+            "Error list reason",
+            "Errorlistreason"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Yes",
+          "synonyms": [
+            "Yes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Export",
+          "synonyms": [
+            "Export"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Operationauthority",
+          "synonyms": [
+            "Operation authority",
+            "Operationauthority"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Isthereacopyfunctionoftheissue",
+          "synonyms": [
+            "Is there a copy function of the issue?",
+            "Isthereacopyfunctionoftheissue"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Icantuploadlist",
+          "synonyms": [
+            "I can't upload list",
+            "Icantuploadlist"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Testdestination",
+          "synonyms": [
+            "Test destination",
+            "Testdestination"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Decreaselistcount",
+          "synonyms": [
+            "Decrease list count",
+            "Decreaselistcount"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Authorityofeachfromaddress",
+          "synonyms": [
+            "Authority of each from address",
+            "Authorityofeachfromaddress"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "List",
+          "synonyms": [
+            "List"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Admin",
+          "synonyms": [
+            "Admin"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Segment",
+          "synonyms": [
+            "Segment"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Howtouploadlist",
+          "synonyms": [
+            "How to upload list",
+            "Howtouploadlist"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Measurementperiod",
+          "synonyms": [
+            "Measurement period",
+            "Measurementperiod"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Testsend",
+          "synonyms": [
+            "Test send",
+            "Testsend"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Validnumber",
+          "synonyms": [
+            "Valid number",
+            "Validnumber"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Contents",
+          "synonyms": [
+            "Contents"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "chat_input",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "chat_cat",
+          "synonyms": [
+            "favorite cat?",
+            "Do you like cat?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "chat_panda",
+          "synonyms": [
+            "favorite panda?",
+            "Do you like panda?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "chat_football",
+          "synonyms": [
+            "favorite football player?",
+            "Who is your favorite football player?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "chat_baseball",
+          "synonyms": [
+            "favorite baseball team?",
+            "Who is your favorite baseball team?"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "Newsletter",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "emagazine",
+          "synonyms": [
+            "news",
+            "issue",
+            "mail"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "recipients",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "permission",
+          "synonyms": [
+            "easyid",
+            "list"
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "api_version": {
+      "major_version": "v1",
+      "minor_version": "2018-09-20"
+    }
+  },
+  "description": "",
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "send_valid_list",
+      "output": {
+        "node": "send_valid_list",
+        "text": {
+          "values": [
+            "Q.There is a difference between the number that became Valid by Manual Upload and the number of deliveries.  \nA. Please check the From address.If it is an address with permission (Emagazine) Since the permission check is entered at the time of delivery reservation, those without permission are excluded./p>  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_64917779"
+      },
+      "parent": "List",
+      "conditions": "@buttons:(Validnumber)",
+      "dialog_node": "send_valid_list",
+      "previous_sibling": "error_list"
+    },
+    {
+      "type": "standard",
+      "title": "get_canceled_list",
+      "output": {
+        "node": "get_canceled_list",
+        "text": {
+          "values": [
+            "Q.I want resipients list of issue which was operated \"canceled\" on Felix. What should I do?  \nA. Please apply for us.  \n[Click here!](https://confluence.rakuten-it.com/confluence/display/FELIX/Inquiry+-+Consultation 'link')  \nIssue id requires for this request, so please fill out it.  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_1627721849"
+      },
+      "parent": "List",
+      "conditions": "@buttons:(Canceledissuelist)",
+      "dialog_node": "get_canceled_list",
+      "previous_sibling": "send_valid_list"
+    },
+    {
+      "type": "standard",
+      "title": "upload_list",
+      "output": {
+        "node": "upload_list",
+        "text": {
+          "values": [
+            "[Click for details!](https://confluence.rakuten-it.com/confluence/display/FELIX/User+Manual+-+Manual+Upload 'link')"
+          ]
+        },
+        "flags": {},
+        "mm_node_id": "ID_1705839380"
+      },
+      "parent": "List",
+      "conditions": "@buttons:(Icantuploadlist)",
+      "dialog_node": "upload_list",
+      "previous_sibling": "List_1"
+    },
+    {
+      "type": "standard",
+      "title": "check_list_decrease",
+      "output": {
+        "node": "check_list_decrease",
+        "text": {
+          "values": [
+            "Q.The mail set for sending has decreased significantly when creating distribution lists.  \nA. Please check the From address.  \nIf it is an address with permission (Emagazine)  \nSince the permission check is entered at the time of delivery reservation, those without permission are excluded.  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_1053479584"
+      },
+      "parent": "List",
+      "conditions": "@buttons:(Decreaselistcount)",
+      "dialog_node": "check_list_decrease",
+      "previous_sibling": "get_canceled_list"
+    },
+    {
+      "type": "standard",
+      "title": "check_list",
+      "output": {
+        "node": "check_list",
+        "text": {
+          "values": [
+            "Q.How to know number of list before sending?  \nA.Yes, You can confirm it by count function.  \n  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_1953510391"
+      },
+      "parent": "List",
+      "conditions": "@buttons:(Countoflist)",
+      "dialog_node": "check_list",
+      "previous_sibling": "upload_list"
+    },
+    {
+      "type": "standard",
+      "title": "error_list",
+      "output": {
+        "node": "error_list",
+        "text": {
+          "values": [
+            "Q. After list upload error count appear.What is error reason?  \nA.Main address and tool type (PC/MB) do not correspond. The list is black user. The list do not exist easy_id. [For more details!](https://confluence.rakuten-it.com/confluence/display/FELIX/User+Manual+-+Manual+Upload 'link')  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_623761412"
+      },
+      "parent": "List",
+      "conditions": "@buttons:(Errorlistreason)",
+      "dialog_node": "error_list",
+      "previous_sibling": "check_list"
+    },
+    {
+      "type": "standard",
+      "title": "List_1",
+      "output": {
+        "node": "List_1",
+        "text": {
+          "values": [
+            "Q I can't upload a list with Manual Upload.  \nA. [Click for details!](https://confluence.rakuten-it.com/confluence/display/FELIX/User+Manual+-+Manual+Upload 'link')  \n  \nDid your problem solve?"
+          ],
+          "selection_policy": "sequential"
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_176533978"
+      },
+      "parent": "List",
+      "metadata": {},
+      "conditions": "@buttons:(Howtouploadlist)",
+      "dialog_node": "List_1"
+    },
+    {
+      "type": "standard",
+      "title": "register_user_2",
+      "output": {
+        "mm_node_id": "ID_467175937"
+      },
+      "parent": "register_user",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "register_user_2",
+      "previous_sibling": "register_user_1"
+    },
+    {
+      "type": "standard",
+      "title": "register_user_1",
+      "output": {
+        "mm_node_id": "ID_1886938795"
+      },
+      "parent": "register_user",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "register_user_1"
+    },
+    {
+      "type": "standard",
+      "title": "error_list_2",
+      "output": {
+        "mm_node_id": "ID_1083396644"
+      },
+      "parent": "error_list",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "error_list_2",
+      "previous_sibling": "error_list_1"
+    },
+    {
+      "type": "standard",
+      "title": "error_list_1",
+      "output": {
+        "mm_node_id": "ID_10122414"
+      },
+      "parent": "error_list",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "error_list_1"
+    },
+    {
+      "type": "standard",
+      "title": "send_valid_list_2",
+      "output": {
+        "mm_node_id": "ID_1847082853"
+      },
+      "parent": "send_valid_list",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "send_valid_list_2",
+      "previous_sibling": "send_valid_list_1"
+    },
+    {
+      "type": "standard",
+      "title": "send_valid_list_1",
+      "output": {
+        "mm_node_id": "ID_171838863"
+      },
+      "parent": "send_valid_list",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "send_valid_list_1"
+    },
+    {
+      "type": "standard",
+      "title": "create_issue_2",
+      "output": {
+        "mm_node_id": "ID_242310134"
+      },
+      "parent": "create_issue",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "create_issue_2",
+      "previous_sibling": "create_issue_1"
+    },
+    {
+      "type": "standard",
+      "title": "create_issue_1",
+      "output": {
+        "mm_node_id": "ID_880192297"
+      },
+      "parent": "create_issue",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "create_issue_1"
+    },
+    {
+      "type": "standard",
+      "title": "List_1_2",
+      "output": {
+        "mm_node_id": "ID_679065360"
+      },
+      "parent": "List_1",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "List_1_2",
+      "previous_sibling": "List_1_1"
+    },
+    {
+      "type": "standard",
+      "title": "List_1_1",
+      "output": {
+        "mm_node_id": "ID_1600031661"
+      },
+      "parent": "List_1",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "List_1_1"
+    },
+    {
+      "type": "standard",
+      "title": "mail_rules_2",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        },
+        "mm_node_id": "ID_815666400"
+      },
+      "parent": "check_rule",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "check_rule_2",
+      "previous_sibling": "check_rule_1"
+    },
+    {
+      "type": "standard",
+      "title": "mail_rules_1",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        },
+        "mm_node_id": "ID_1059918450"
+      },
+      "parent": "check_rule",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "check_rule_1"
+    },
+    {
+      "type": "standard",
+      "title": "register_authority_user_2",
+      "output": {
+        "mm_node_id": "ID_240049273"
+      },
+      "parent": "register_authority_user",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "register_authority_user_2",
+      "previous_sibling": "register_authority_user_1"
+    },
+    {
+      "type": "standard",
+      "title": "register_authority_user_1",
+      "output": {
+        "mm_node_id": "ID_619960067"
+      },
+      "parent": "register_authority_user",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "register_authority_user_1"
+    },
+    {
+      "type": "standard",
+      "title": "send_ML_address",
+      "output": {
+        "node": "send_ML_address",
+        "text": {
+          "values": [
+            "Q.Can I set the test send destination to an address other than me like ML?  \nA.Is possible. You can create a test destination group beforehand and send tests to the group you created. For more details  \n[Click here!](https://confluence.rakuten-it.com/confluence/display/FELIX/User+Manual+-+Test+Contacts+Groups 'link')  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_81151279"
+      },
+      "parent": "Test send",
+      "conditions": "@buttons:(Testdestination)",
+      "dialog_node": "send_ML_address",
+      "previous_sibling": "send_test_transmission"
+    },
+    {
+      "type": "standard",
+      "title": "send_test_transmission",
+      "output": {
+        "node": "send_test_transmission",
+        "text": {
+          "values": [
+            "Q.An error occurs many times in test transmission.  \nA.There is an illegal URL (such as a space) in the URL in the content, and there is a possibility that an error occurred in the REC conversion.  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_875154163"
+      },
+      "parent": "Test send",
+      "conditions": "@buttons:(erroroccursmanytime)",
+      "dialog_node": "send_test_transmission"
+    },
+    {
+      "type": "standard",
+      "title": "copy_issue_2",
+      "output": {
+        "mm_node_id": "ID_1921866747"
+      },
+      "parent": "copy_issue",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "copy_issue_2",
+      "previous_sibling": "copy_issue_1"
+    },
+    {
+      "type": "standard",
+      "title": "copy_issue_1",
+      "output": {
+        "mm_node_id": "ID_337014976"
+      },
+      "parent": "copy_issue",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "copy_issue_1"
+    },
+    {
+      "type": "standard",
+      "title": "check_list_decrease_2",
+      "output": {
+        "mm_node_id": "ID_648781087"
+      },
+      "parent": "check_list_decrease",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "check_list_decrease_2",
+      "previous_sibling": "check_list_decrease_1"
+    },
+    {
+      "type": "standard",
+      "title": "check_list_decrease_1",
+      "output": {
+        "mm_node_id": "ID_723932487"
+      },
+      "parent": "check_list_decrease",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "check_list_decrease_1"
+    },
+    {
+      "type": "standard",
+      "title": "mail_rules",
+      "output": {
+        "node": "mail_rules",
+        "text": {
+          "values": [
+            "Q.I want to know the rules to acquire mail permissions.  \nA.Please check MAP - Mail Magazine Portal Site  \n[Click here!](https://confluence.rakuten-it.com/confluence/display/MMPS 'link')  \n  \nDid your problem solve?"
+          ],
+          "selection_policy": "sequential"
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_1246723067"
+      },
+      "parent": "KPI",
+      "metadata": {},
+      "conditions": "@buttons:(Mail rules)",
+      "dialog_node": "check_rule",
+      "previous_sibling": "node_1_1554784044392"
+    },
+    {
+      "type": "standard",
+      "title": "open_rate",
+      "output": {
+        "node": "open_rate",
+        "text": {
+          "values": [
+            "Q.What is Open measurement method?  \nA.Opens can be tracked in HTML emails because they include a tracking pixel, which is a tiny, invisible image, that is displayed when the subscriber opens your email. When that image is downloaded from our web servers, the email is recorded as being opened.  \n  \nDid your problem solve?"
+          ],
+          "selection_policy": "sequential"
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_1934160542"
+      },
+      "parent": "KPI",
+      "metadata": {},
+      "conditions": "@buttons:(Open rate)",
+      "dialog_node": "node_1_1554784044392",
+      "previous_sibling": "check_kpi"
+    },
+    {
+      "type": "standard",
+      "title": "check_kpi",
+      "output": {
+        "node": "check_kpi",
+        "text": {
+          "values": [
+            "Q.How many days does the open-rate of mail magazine count? A.It is 7 days after sent you campaign. Hatago provides Felix KPI Click  \n[For more detail click here!](https://confluence.rakuten-it.com/confluence/display/HATAGO/Hatago+User%27s+Guide 'link')  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_1934160542"
+      },
+      "parent": "KPI",
+      "conditions": "@buttons:(Measurementperiod)",
+      "dialog_node": "check_kpi"
+    },
+    {
+      "type": "standard",
+      "title": "divide_authority_user",
+      "output": {
+        "node": "divide_authority_user",
+        "text": {
+          "values": [
+            "Q. Is it possible to divide authority for each From address?  \nA. Yes, it is possible. For more details [Click here!](https://confluence.rakuten-it.com/confluence/pages/viewpage.action?pageld=1650845752 'link')  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_1195074438"
+      },
+      "parent": "Admin",
+      "conditions": "@buttons:(Authorityofeachfromaddress)",
+      "dialog_node": "divide_authority_user",
+      "previous_sibling": "register_user"
+    },
+    {
+      "type": "standard",
+      "title": "register_user",
+      "output": {
+        "node": "register_user",
+        "text": {
+          "values": [
+            "Q.I want more Felix user. A.User registration is possible on Felix. Please tell them to register with those who have admin privilege of the client to be distributed.  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_137866789"
+      },
+      "parent": "Admin",
+      "conditions": "@buttons:(Felixuser)",
+      "dialog_node": "register_user",
+      "previous_sibling": "register_authority_user"
+    },
+    {
+      "type": "standard",
+      "title": "register_authority_user",
+      "output": {
+        "node": "register_authority_user",
+        "text": {
+          "values": [
+            "[Click here!](https://confluence.rakuten-it.com/confluence/pages/viewpage.action?pageId=1258293660 'link')  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_287445011"
+      },
+      "parent": "Admin",
+      "conditions": "@buttons:(Operationauthority)",
+      "dialog_node": "register_authority_user"
+    },
+    {
+      "type": "standard",
+      "title": "open_rate_2",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        },
+        "mm_node_id": "ID_54048545"
+      },
+      "parent": "node_1_1554784044392",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "node_3_1554784044393",
+      "previous_sibling": "node_2_1554784044393"
+    },
+    {
+      "type": "standard",
+      "title": "open_rate_1",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        },
+        "mm_node_id": "ID_1250509769"
+      },
+      "parent": "node_1_1554784044392",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "node_2_1554784044393"
+    },
+    {
+      "type": "standard",
+      "title": "email_engagement_reaction_2",
+      "output": {
+        "mm_node_id": "ID_984363505"
+      },
+      "parent": "email_engagement_reaction",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "email_engagement_reaction_2",
+      "previous_sibling": "email_engagement_reaction_1"
+    },
+    {
+      "type": "standard",
+      "title": "email_engagement_reaction_1",
+      "output": {
+        "mm_node_id": "ID_484015185"
+      },
+      "parent": "email_engagement_reaction",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "email_engagement_reaction_1"
+    },
+    {
+      "type": "standard",
+      "title": "create_issue",
+      "output": {
+        "node": "create_issue",
+        "text": {
+          "values": [
+            "A. You have no authority of creating a issue. Please check authority on Felix admin page.  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_553405376"
+      },
+      "parent": "Contents",
+      "conditions": "@buttons:(Icannotcreateisuue)",
+      "dialog_node": "create_issue",
+      "previous_sibling": "copy_issue"
+    },
+    {
+      "type": "standard",
+      "title": "copy_issue",
+      "output": {
+        "node": "copy_issue",
+        "text": {
+          "values": [
+            "A. No, there is no function on Felix.  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_790675449"
+      },
+      "parent": "Contents",
+      "conditions": "@buttons:(Isthereacopyfunctionoftheissue)",
+      "dialog_node": "copy_issue"
+    },
+    {
+      "type": "standard",
+      "title": "get_canceled_list_2",
+      "output": {
+        "mm_node_id": "ID_501779178"
+      },
+      "parent": "get_canceled_list",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "get_canceled_list_2",
+      "previous_sibling": "get_canceled_list_1"
+    },
+    {
+      "type": "standard",
+      "title": "get_canceled_list_1",
+      "output": {
+        "mm_node_id": "ID_451554221"
+      },
+      "parent": "get_canceled_list",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "get_canceled_list_1"
+    },
+    {
+      "type": "standard",
+      "title": "send_test_transmission_2",
+      "output": {
+        "mm_node_id": "ID_706586154"
+      },
+      "parent": "send_test_transmission",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "send_test_transmission_2",
+      "previous_sibling": "send_test_transmission_1"
+    },
+    {
+      "type": "standard",
+      "title": "send_test_transmission_1",
+      "output": {
+        "mm_node_id": "ID_609121829"
+      },
+      "parent": "send_test_transmission",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "send_test_transmission_1"
+    },
+    {
+      "type": "standard",
+      "title": "change_language_2",
+      "output": {
+        "mm_node_id": "ID_1961251547"
+      },
+      "parent": "change_language",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "change_language_2",
+      "previous_sibling": "change_language_1"
+    },
+    {
+      "type": "standard",
+      "title": "change_language_1",
+      "output": {
+        "mm_node_id": "ID_1759297235"
+      },
+      "parent": "change_language",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "change_language_1"
+    },
+    {
+      "type": "standard",
+      "title": "check_kpi_2",
+      "output": {
+        "mm_node_id": "ID_54048545"
+      },
+      "parent": "check_kpi",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "check_kpi_2",
+      "previous_sibling": "check_kpi_1"
+    },
+    {
+      "type": "standard",
+      "title": "check_kpi_1",
+      "output": {
+        "mm_node_id": "ID_1250509769"
+      },
+      "parent": "check_kpi",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "check_kpi_1"
+    },
+    {
+      "type": "standard",
+      "title": "upload_list_2",
+      "output": {
+        "mm_node_id": "ID_1661553496"
+      },
+      "parent": "upload_list",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "dialog_node": "upload_list_2",
+      "previous_sibling": "upload_list_1"
+    },
+    {
+      "type": "standard",
+      "title": "upload_list_1",
+      "output": {
+        "mm_node_id": "ID_1336765217"
+      },
+      "parent": "upload_list",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "dialog_node": "upload_list_1"
+    },
+    {
+      "type": "standard",
+      "title": "check_list_2",
+      "output": {
+        "mm_node_id": "ID_1999968833"
+      },
+      "parent": "check_list",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "check_list_2",
+      "previous_sibling": "check_list_1"
+    },
+    {
+      "type": "standard",
+      "title": "check_list_1",
+      "output": {
+        "mm_node_id": "ID_24494799"
+      },
+      "parent": "check_list",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "check_list_1"
+    },
+    {
+      "type": "standard",
+      "title": "export_permission_2",
+      "output": {
+        "mm_node_id": "ID_1161671608"
+      },
+      "parent": "export_permission",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "export_permission_2",
+      "previous_sibling": "export_permission_1"
+    },
+    {
+      "type": "standard",
+      "title": "export_permission_1",
+      "output": {
+        "mm_node_id": "ID_109549442"
+      },
+      "parent": "export_permission",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "export_permission_1"
+    },
+    {
+      "type": "standard",
+      "title": "email_engagement_reaction",
+      "output": {
+        "node": "email_engagement_reaction",
+        "text": {
+          "values": [
+            "Q.What is the difference between these Reaction segments? Emagazine Engagement - Reaction Emagazine Engagement - Total Reaction Email Engagement - Reaction  \nA.Emagazine Engagement - Reaction →A reaction for each news.  \nEmagazine Engagement - Total Reaction→The whole reaction of Emagazine.  \nEmail Engagement - Reaction→A reaction for each Felix client.  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_1993440909"
+      },
+      "parent": "welcome",
+      "conditions": "@buttons:(Segment)",
+      "dialog_node": "email_engagement_reaction",
+      "previous_sibling": "List"
+    },
+    {
+      "type": "standard",
+      "title": "Contents",
+      "output": {
+        "node": "Contents",
+        "text": {
+          "values": [
+            "We support about Contents."
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Is there a copy function of the issue?": "Is there a copy function of the issue?"
+          },
+          {
+            "I can not create isuue.": "I can not create isuue."
+          }
+        ],
+        "mm_node_id": "ID_986966583"
+      },
+      "parent": "welcome",
+      "conditions": "@buttons:(Contents)",
+      "dialog_node": "Contents",
+      "previous_sibling": "Test send"
+    },
+    {
+      "type": "standard",
+      "title": "List",
+      "output": {
+        "node": "List",
+        "text": {
+          "values": [
+            "We support about List!"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "How to upload list": "How to upload list"
+          },
+          {
+            "I can't upload list": "I can't upload list"
+          },
+          {
+            "Count of list": "Count of list"
+          },
+          {
+            "Error list reason": "Error list reason"
+          },
+          {
+            "Valid number": "Valid number"
+          },
+          {
+            "Canceled issue list": "Canceled issue list"
+          },
+          {
+            "Decrease list count": "Decrease list count"
+          }
+        ],
+        "mm_node_id": "ID_1885540154"
+      },
+      "parent": "welcome",
+      "conditions": "@buttons:(List)",
+      "dialog_node": "List",
+      "previous_sibling": "KPI"
+    },
+    {
+      "type": "standard",
+      "title": "export_permission",
+      "output": {
+        "node": "export_permission",
+        "text": {
+          "values": [
+            "[Clickhere!](https://confluence.rakuten-it.com/confluence/display/FELIX/User+Manual+-+Export 'link')  \n  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_1242207256"
+      },
+      "parent": "welcome",
+      "conditions": "@buttons:(Export)",
+      "dialog_node": "export_permission",
+      "previous_sibling": "Admin"
+    },
+    {
+      "type": "standard",
+      "title": "Test send",
+      "output": {
+        "node": "Test send",
+        "text": {
+          "values": [
+            "We support about test send."
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "error occurs many time": "error occurs many time"
+          },
+          {
+            "Test destination": "Test destination"
+          }
+        ],
+        "mm_node_id": "ID_1943518472"
+      },
+      "parent": "welcome",
+      "conditions": "@buttons:(Testsend)",
+      "dialog_node": "Test send",
+      "previous_sibling": "email_engagement_reaction"
+    },
+    {
+      "type": "standard",
+      "title": "change_language",
+      "output": {
+        "node": "change_language",
+        "text": {
+          "values": [
+            "Q. Can Felix create Newsletters in other languages such as French, Spanish and so on?  \nA. Yes. Felix supports UTF-8. So, we think felix supports many characters widely.  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_1778959876"
+      },
+      "parent": "welcome",
+      "conditions": "@buttons:(Other)",
+      "dialog_node": "change_language",
+      "previous_sibling": "Contents"
+    },
+    {
+      "type": "standard",
+      "title": "import_list",
+      "output": {
+        "node": "import_list",
+        "text": {
+          "values": [
+            "[Click here!](https://confluence.rakuten-it.com/confluence/display/FELIX/User+Manual+-+Permission+Import 'link')  \nBefore starting Import function you need to apply to Felix team for setting 購読理由 cord .  \n[Click here!](https://confluence.rakuten-it.com/confluence/display/FELIX/Inquiry+-+Question 'link')  \n  \n  \nDid your problem solve?"
+          ]
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Yes": "Yes"
+          },
+          {
+            "No": "No"
+          }
+        ],
+        "mm_node_id": "ID_88154358"
+      },
+      "parent": "welcome",
+      "conditions": "@buttons:(Import)",
+      "dialog_node": "import_list",
+      "previous_sibling": "export_permission"
+    },
+    {
+      "type": "standard",
+      "title": "KPI",
+      "output": {
+        "node": "KPI",
+        "text": {
+          "values": [
+            "We support about KPI."
+          ],
+          "selection_policy": "sequential"
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Measurement period": "Measurement period"
+          },
+          {
+            "Open rate": "Open rate"
+          },
+          {
+            "Mail rules": "Mail rules"
+          }
+        ],
+        "mm_node_id": "ID_1960999829"
+      },
+      "parent": "welcome",
+      "metadata": {},
+      "conditions": "@buttons:(KPI)",
+      "dialog_node": "KPI",
+      "previous_sibling": "import_list"
+    },
+    {
+      "type": "standard",
+      "title": "Admin",
+      "output": {
+        "node": "Admin",
+        "text": {
+          "values": [
+            "We support about Admin(User)!"
+          ],
+          "selection_policy": "sequential"
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Operation authority": "Operation authority"
+          },
+          {
+            "Felix user": "Felix user"
+          },
+          {
+            "Authority of each from address": "Authority of each from address"
+          }
+        ],
+        "mm_node_id": "ID_913219"
+      },
+      "parent": "welcome",
+      "metadata": {},
+      "conditions": "@buttons:(Admin)",
+      "dialog_node": "Admin"
+    },
+    {
+      "type": "standard",
+      "title": "divide_authority_user_2",
+      "output": {
+        "mm_node_id": "ID_1800708145"
+      },
+      "parent": "divide_authority_user",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "divide_authority_user_2",
+      "previous_sibling": "divide_authority_user_1"
+    },
+    {
+      "type": "standard",
+      "title": "divide_authority_user_1",
+      "output": {
+        "mm_node_id": "ID_1720415692"
+      },
+      "parent": "divide_authority_user",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "divide_authority_user_1"
+    },
+    {
+      "type": "standard",
+      "title": "import_list_2",
+      "output": {
+        "mm_node_id": "ID_1830311882"
+      },
+      "parent": "import_list",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "import_list_2",
+      "previous_sibling": "import_list_1"
+    },
+    {
+      "type": "standard",
+      "title": "import_list_1",
+      "output": {
+        "mm_node_id": "ID_919100505"
+      },
+      "parent": "import_list",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "import_list_1"
+    },
+    {
+      "type": "standard",
+      "title": "send_ML_address_2",
+      "output": {
+        "mm_node_id": "ID_82757302"
+      },
+      "parent": "send_ML_address",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "not_successful"
+      },
+      "conditions": "@buttons:(No)",
+      "dialog_node": "send_ML_address_2",
+      "previous_sibling": "send_ML_address_1"
+    },
+    {
+      "type": "standard",
+      "title": "send_ML_address_1",
+      "output": {
+        "mm_node_id": "ID_1543125648"
+      },
+      "parent": "send_ML_address",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "successful"
+      },
+      "conditions": "@buttons:(Yes)",
+      "dialog_node": "send_ML_address_1"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_create_issue",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "create_issue"
+      },
+      "conditions": "#create_issue",
+      "dialog_node": "node_7_1553495127680",
+      "previous_sibling": "node_9_1553495131615"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_check_rule",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "check_rule"
+      },
+      "conditions": "#check_rule",
+      "dialog_node": "node_18_1553495147742",
+      "previous_sibling": "node_19_1553495149413"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_copy_issue",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "copy_issue"
+      },
+      "conditions": "#copy_issue",
+      "dialog_node": "node_9_1553495131615",
+      "previous_sibling": "node_10_1553495133503"
+    },
+    {
+      "type": "standard",
+      "title": "successful",
+      "output": {
+        "node": "successful",
+        "text": {
+          "values": [
+            "Thank you for your contacting.  \n![Felix-the-cat.jpg](https://felix.intra.rakuten-it.com/mail/img/Felix-the-cat.jpg)"
+          ],
+          "selection_policy": "sequential"
+        },
+        "flags": {
+          "solved": true
+        },
+        "mm_node_id": "ID_257495741"
+      },
+      "metadata": {},
+      "dialog_node": "successful",
+      "previous_sibling": "node_21_1553497316452"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_check_list_decrease",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "check_list_decrease"
+      },
+      "conditions": "#check_list_decrease",
+      "dialog_node": "node_17_1553495146086",
+      "previous_sibling": "node_18_1553495147742"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_email_engagement_reaction",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "email_engagement_reaction"
+      },
+      "conditions": "#email_engagement_reaction",
+      "dialog_node": "node_6_1553495120976",
+      "previous_sibling": "node_7_1553495127680"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_get_canceled_list",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "get_canceled_list"
+      },
+      "conditions": "#get_canceled_list",
+      "dialog_node": "node_20_1553495390082",
+      "previous_sibling": "node_3_1553495100873"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_upload_list",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "upload_list"
+      },
+      "conditions": "#upload_list",
+      "dialog_node": "node_11_1553495135350",
+      "previous_sibling": "node_12_1553495136848"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_register_user",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "register_user"
+      },
+      "conditions": "#register_user",
+      "dialog_node": "node_15_1553495142014",
+      "previous_sibling": "node_16_1553495144022"
+    },
+    {
+      "type": "standard",
+      "title": "welcome",
+      "output": {
+        "node": "welcome",
+        "text": {
+          "values": [
+            "  \nHello, I'm Felibot. May I  help you?  \nAlso you can click the buttons below.  \n![Felix-the-cat.jpg](https://felix.intra.rakuten-it.com/mail/img/Felix-the-cat.jpg)"
+          ],
+          "selection_policy": "sequential"
+        },
+        "flags": {},
+        "buttons": [
+          {
+            "Admin": "Admin"
+          },
+          {
+            "Export": "Export"
+          },
+          {
+            "Import": "Import"
+          },
+          {
+            "KPI": "KPI"
+          },
+          {
+            "List": "List"
+          },
+          {
+            "Segment": "Segment"
+          },
+          {
+            "Test send": "Test send"
+          },
+          {
+            "Contents": "Contents"
+          },
+          {
+            "Other": "Other"
+          }
+        ],
+        "mm_node_id": "ID_1624045169"
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "dialog_node": "welcome",
+      "previous_sibling": "version"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_register_authority_user",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "register_authority_user"
+      },
+      "conditions": "#register_authority_user",
+      "dialog_node": "node_16_1553495144022",
+      "previous_sibling": "node_17_1553495146086"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_import_list",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "import_list"
+      },
+      "conditions": "#import_list",
+      "dialog_node": "node_14_1553495140374",
+      "previous_sibling": "node_15_1553495142014"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_export_permission",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "export_permission"
+      },
+      "conditions": "#export_permission",
+      "dialog_node": "node_3_1553495100873",
+      "previous_sibling": "node_6_1553495120976"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_check_list",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "check_list"
+      },
+      "conditions": "#check_list",
+      "dialog_node": "node_2_1553495087411",
+      "previous_sibling": "node_1_1553494960877"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_check_kpi",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "check_kpi"
+      },
+      "conditions": "#check_kpi",
+      "dialog_node": "node_19_1553495149413",
+      "previous_sibling": "node_2_1553495087411"
+    },
+    {
+      "type": "standard",
+      "title": "not_successful",
+      "output": {
+        "node": "not_successful",
+        "text": {
+          "values": [
+            "Please vote ticket. Felix member contact you later via your ticket  \n[Click here!](https://confluence.rakuten-it.com/confluence/display/FELIX/Inquiry+-+Question 'link')  \n  \n![Felix-the-cat.jpg](https://felix.intra.rakuten-it.com/mail/img/Felix-the-cat.jpg)"
+          ]
+        },
+        "flags": {
+          "solved": false
+        },
+        "mm_node_id": "ID_1278868988"
+      },
+      "dialog_node": "not_successful",
+      "previous_sibling": "successful"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_send_ML_address",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "send_ML_address"
+      },
+      "conditions": "#send_ML_address",
+      "dialog_node": "node_10_1553495133503",
+      "previous_sibling": "node_11_1553495135350"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_divide_authority_user",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "divide_authority_user"
+      },
+      "conditions": "#divide_authority_user",
+      "dialog_node": "node_13_1553495138662",
+      "previous_sibling": "node_14_1553495140374"
+    },
+    {
+      "type": "standard",
+      "title": "anything_else",
+      "output": {
+        "node": "anything_else",
+        "text": {
+          "values": [
+            "There is a possibility of a question that can not be answered by AI BOT.  \nPlease enter another way of saying.  \n  \n![Felix-the-cat.jpg](https://felix.intra.rakuten-it.com/mail/img/Felix-the-cat.jpg)"
+          ]
+        },
+        "flags": {},
+        "mm_node_id": "ID_1229710596"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "anything_else",
+      "previous_sibling": "not_successful"
+    },
+    {
+      "type": "standard",
+      "title": "chit_chat",
+      "output": {
+        "node": "chit_chat",
+        "text": {
+          "values": [
+            "__CHITCHAT_RESPONSE__"
+          ],
+          "selection_policy": "sequential"
+        },
+        "flags": {
+          "chitchat": true
+        }
+      },
+      "metadata": {},
+      "conditions": "@chat_input",
+      "dialog_node": "node_21_1553497316452",
+      "previous_sibling": "node_20_1553495390082"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_change_language",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "change_language"
+      },
+      "conditions": "#change_language",
+      "dialog_node": "node_1_1553494960877",
+      "previous_sibling": "welcome"
+    },
+    {
+      "type": "standard",
+      "title": "jump_to_send_test_transmission",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "send_test_transmission"
+      },
+      "conditions": "#send_test_transmission",
+      "dialog_node": "node_12_1553495136848",
+      "previous_sibling": "node_13_1553495138662"
+    },
+    {
+      "type": "standard",
+      "title": "version",
+      "output": {
+        "node": "version",
+        "text": {
+          "values": [
+            "ver.$ver/ $date  \n$desc\n(the conversation has reset)"
+          ],
+          "selection_policy": "sequential"
+        },
+        "flags": {},
+        "mm_node_id": ""
+      },
+      "context": {
+        "ver": "5.1",
+        "date": "2019/04/10",
+        "desc": ""
+      },
+      "metadata": {},
+      "conditions": "@version",
+      "dialog_node": "version"
+    }
+  ],
+  "workspace_id": "bfbc801b-d3d9-414f-8aa1-187297e35fc2",
+  "counterexamples": [],
+  "learning_opt_out": false,
+  "status": "Available"
+}
